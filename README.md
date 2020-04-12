@@ -29,7 +29,7 @@
 * Change In App.config file contain connectionString Path 
 
 
-![Image First Image ](https://github.com/Kumar-Akshay/BookStore-Desktop-Application/blob/master/ScreenShot%20(2).JPG)
-![Image Second Image ](https://github.com/Kumar-Akshay/BookStore-Desktop-Application/blob/master/ScreenShot%20(1).JPG)
-![Image Third Image ](https://github.com/Kumar-Akshay/BookStore-Desktop-Application/blob/master/ScreenShot%20(3).JPG)
+![Image](https://github.com/Kumar-Akshay/BookStore-Desktop-Application/blob/master/ScreenShot%20(2).JPG)
+![Image](https://github.com/Kumar-Akshay/BookStore-Desktop-Application/blob/master/ScreenShot%20(1).JPG)
+![Image](https://github.com/Kumar-Akshay/BookStore-Desktop-Application/blob/master/ScreenShot%20(3).JPG)
 
