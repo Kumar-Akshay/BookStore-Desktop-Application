@@ -28,7 +28,8 @@
 * make sure that you add Bookstore.mdf file in Project.
 * Change In App.config file contain connectionString Path 
 
-![Image description](https://github.com/Kumar-Akshay/BookStore-Desktop-Application/blob/master/ScreenShot%20(1).JPG)
-![Image description](https://github.com/Kumar-Akshay/BookStore-Desktop-Application/blob/master/ScreenShot%20(2).JPG)
-![Image description](https://github.com/Kumar-Akshay/BookStore-Desktop-Application/blob/master/ScreenShot%20(3).JPG)
+
+![Image First Image ](https://github.com/Kumar-Akshay/BookStore-Desktop-Application/blob/master/ScreenShot%20(2).JPG)
+![Image Second Image ](https://github.com/Kumar-Akshay/BookStore-Desktop-Application/blob/master/ScreenShot%20(1).JPG)
+![Image Third Image ](https://github.com/Kumar-Akshay/BookStore-Desktop-Application/blob/master/ScreenShot%20(3).JPG)
 
